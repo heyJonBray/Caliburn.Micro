@@ -23,6 +23,6 @@ Caliburn.Micro is a small, yet powerful framework, designed for building applica
 ## Questions
 - For non bug related questions see [Stack Overflow](https://stackoverflow.com/questions/tagged/caliburn.micro)
 
-## Sponsoring
+## ~~Sponsoring~~
 
 ~~The Caliburn.Micro team uses ReSharper by [JetBrains](https://www.jetbrains.com/).~~ - 9/5/2020 HeyJonBray
