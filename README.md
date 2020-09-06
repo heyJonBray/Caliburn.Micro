@@ -1,7 +1,9 @@
 # Caliburn.Micro
 
-## No longer under active maitenance
-This project is not longer being actively maintained, for more detail see the [announcement](https://caliburnmicro.com/announcements/stepping-away).
+## The official Caliburn-Micro repo is no longer under active maitenance.
+[**Official Announcement**](https://caliburnmicro.com/announcements/stepping-away)
+
+:recycle: [heyJonBray/Caliburn.Micro](https://github.com/heyJonBray/Caliburn.Micro) has picked up from latest release prior to the official repo going inactive.
 
 ## Packages
  Channel | Status
@@ -22,4 +24,4 @@ Caliburn.Micro is a small, yet powerful framework, designed for building applica
 
 ## Sponsoring
 
-The Caliburn.Micro team uses ReSharper by [JetBrains](https://www.jetbrains.com/).
+~~The Caliburn.Micro team uses ReSharper by [JetBrains](https://www.jetbrains.com/).~~ - 9/5/2020 HeyJonBray
