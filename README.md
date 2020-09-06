@@ -6,7 +6,7 @@ HeyJonBray has picked up this fork on 2020-Sep-5 from latest release prior to th
 ### The official Caliburn-Micro repo is no longer under active maitenance.
 [**Official Announcement**](https://caliburnmicro.com/announcements/stepping-away)
 
-## Packages
+## Original Packages
  Channel | Status
 :------: | ------
 CI | [![Build Status](https://img.shields.io/azure-devops/build/caliburn-micro/caliburn-micro/3.svg?logo=windows&logoColor=white&style=for-the-badge)](https://dev.azure.com/caliburn-micro/caliburn-micro/_build/latest?definitionId=3)
@@ -15,7 +15,7 @@ NuGet | [![NuGet Package](https://img.shields.io/nuget/v/Caliburn.Micro.svg?logo
 
 Caliburn.Micro is a small, yet powerful framework, designed for building applications across all XAML platforms. With strong support for MVVM and other proven UI patterns, Caliburn.Micro will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 
-## Packages are available on Nuget
+## Original Packages Available on Nuget
 - [Caliburn.Micro.Core](https://www.nuget.org/packages/Caliburn.Micro.Core/) - The Portable Class Library (PCL) portion of Caliburn.Micro.
 - [Caliburn.Micro](https://www.nuget.org/packages/Caliburn.Micro/) - The platform-specific adapters for Caliburn.Micro.
 - [Caliburn.Micro.Xamarin.Forms](https://www.nuget.org/packages/Caliburn.Micro.Xamarin.Forms/) - Support to Caliburn.Micro in Xamarin.Forms.
