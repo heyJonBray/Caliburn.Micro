@@ -1,9 +1,10 @@
 # Caliburn.Micro
 
-## The official Caliburn-Micro repo is no longer under active maitenance.
-[**Official Announcement**](https://caliburnmicro.com/announcements/stepping-away)
+## :recycle: [heyJonBray/Caliburn.Micro](https://github.com/heyJonBray/Caliburn.Micro) 
+HeyJonBray has picked up this fork on 2020-Sep-5 from latest release prior to the official repo going inactive.
 
-:recycle: [heyJonBray/Caliburn.Micro](https://github.com/heyJonBray/Caliburn.Micro) has picked up from latest release prior to the official repo going inactive.
+### The official Caliburn-Micro repo is no longer under active maitenance.
+[**Official Announcement**](https://caliburnmicro.com/announcements/stepping-away)
 
 ## Packages
  Channel | Status
